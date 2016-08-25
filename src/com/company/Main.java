@@ -14,5 +14,6 @@ public class Main {
         System.out.println(abra.nombre + " usa confusión!");
         System.out.println(abra.nombre + " ha fallado el ataque!");
         System.out.println("La vida del pokémon "+ charmander.nombre + " sigue en " + charmander.vida + "!");
+        System.out.println("POKEMONOOOONONONONOOOOO");
     }
 }
